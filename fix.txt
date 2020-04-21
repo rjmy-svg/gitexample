@@ -4,5 +4,10 @@ Ok ok
 
 fastforward merge
 
+<<<<<<< HEAD
 
 website
+=======
+featureb changes
+
+>>>>>>> featureB
